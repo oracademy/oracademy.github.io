@@ -4,4 +4,5 @@ Lorem ipsum...
 
 
 ### Pillbox placement
-Here goes some cool info.
+[Pillbox placement](entries/pillbox/index.md)
+
